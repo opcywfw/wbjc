@@ -9,7 +9,7 @@ window.WORKBUDDY_FLOAT_POPUP = {
     { value: "10万+", label: "用户选择" },
     { value: "98%", label: "好评率" }
   ],
-  couponLabel: "领取口令：",
+  couponLabel: "优惠码：",
   couponCode: "abc888",
   primaryButtonText: "立即查看",
   primaryButtonUrl: "https://nf.video/YmYHQ",
