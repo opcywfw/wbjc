@@ -187,7 +187,7 @@
       var features = document.createElement("div");
       features.className = "float-popup-features";
       config.features.slice(0, 3).forEach(function (feature) {
-        appendText(features, "", "✓ " + feature);
+        appendText(features, "", " " + feature);
       });
       inner.appendChild(features);
     }
