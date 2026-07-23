@@ -13,7 +13,7 @@ window.WORKBUDDY_FLOAT_POPUP = {
   couponCode: "abc888",
   primaryButtonText: "立即查看",
   primaryButtonUrl: "https://nf.video/YmYHQ",
-  features: ["————————————"],
+  features: ["--- AI社群推荐（国内头部AI社群） ---"],
   secondaryCard: {
     icon: "📘",
     title: "AI破局知识星球",
