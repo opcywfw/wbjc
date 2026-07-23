@@ -6,14 +6,14 @@ window.WORKBUDDY_FLOAT_POPUP = {
   badge: "95折",
   description: "ChatGPT Plus / Claude / Midjourney 正版账号，一站式搞定",
   stats: [
-    { value: "10万+", label: "用户选择" },
-    { value: "98%", label: "好评率" }
+    { value: "超多", label: "用户选择" },
+    { value: "超高", label: "好评率" }
   ],
   couponLabel: "优惠码：",
   couponCode: "abc888",
   primaryButtonText: "立即查看",
   primaryButtonUrl: "https://nf.video/YmYHQ",
-  features: ["24小时客服", "翻车包赔"],
+  features: ["————————————"],
   secondaryCard: {
     icon: "📘",
     title: "AI破局知识星球",
